@@ -1,4 +1,4 @@
-core
+iwp-cms
 ====
 
-core
+some description
