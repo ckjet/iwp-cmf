@@ -1,4 +1,4 @@
-iwp-cms
+iwp-cmf
 ====
 
 some description
