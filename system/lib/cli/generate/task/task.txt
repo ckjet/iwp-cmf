@@ -1,0 +1,11 @@
+<?php
+
+class {task_name} extends BaseTask {
+
+    public function mainAction($params = array()) {
+        $connection = $this->db; //pdo
+        echo "This is the {task_name} and the default action \n";
+        // add your code here
+    }
+
+}
