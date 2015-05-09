@@ -1,6 +1,0 @@
-param:
-   adapter: Mysql
-   host: localhost
-   username: root
-   password: root
-   name: iwp

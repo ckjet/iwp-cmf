@@ -1,6 +1,0 @@
-#!/usr/bin/env php
-<?php
-
-include realpath('.') . '/system/lib/cli/autoload/loader.php';
-
-new iwp_cli_autoload($argv);
