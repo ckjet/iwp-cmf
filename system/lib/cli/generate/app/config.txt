@@ -1,0 +1,10 @@
+path:
+   controllers: /controller/
+   models: /model/
+   views: /view/
+   baseUri: /{app_name}.php/
+   suffix: ''
+   
+errors:
+   error404: { controller: errors, action: show404 }
+   error500: { controller: errors, action: show500 }

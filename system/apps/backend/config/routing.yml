@@ -1,0 +1,12 @@
+#custom rules
+default:
+    pattern: /
+    param: { controller: main, action: index }
+    
+#default rules(do not delete)
+default_action:
+    pattern: /{controller}/{action}
+    
+default_controller:
+    pattern: /{controller}
+    param: { action: index }

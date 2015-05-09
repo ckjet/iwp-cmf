@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * {module_name} actions.
+ *
+ * @package    {project_name}
+ * @subpackage {module_name}
+ * @author     {author_name}
+ * @version    $Id: controller 432 2015-04-30 17:22:58Z Vasiliy.Razumov $
+ */
+class {class_name} extends BaseController {
+    
+    /**
+     * Executes index action
+     *
+     */
+    public function indexAction() {
+        $this->tag->setTitle('Module {module_name} created');
+    }
+}
